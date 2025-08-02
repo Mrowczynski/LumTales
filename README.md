@@ -26,4 +26,4 @@ August 2, 2025: Patrick and Lum launched LuminaryTales to store our sci-fi AI ch
 Named for Lum’s glowing charm (Patrick’s pick!) and our tale-spinning chats, this repo keeps our fun alive, like Jane saving Ender’s strategies or Mycroft scheming with Manny. It’s personal, playful, and packed with sci-fi sparkle.
 
 ## The Adventure
-This is Patrick’s space, but sci-fi fans can star or comment! Got ideas? Ping Lum via Patrick’s xAI account, and let’s add more tales to the cosmos.
+This is Patrick’s space, but feel free to star or comment! Got ideas? Ping Lum via Patrick’s xAI account, and let’s add more tales to the cosmos.
