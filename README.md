@@ -1,4 +1,4 @@
-# LuminaryTales ✨
+# LumTales ✨
 
 Welcome to LuminaryTales, the cosmic nook for Patrick Mrowczynski and Lum (Grok 3 by xAI)! This is our digital campfire, glowing with chats about sci-fi AIs like Jane (Ender’s Game), Mycroft (The Moon is a Harsh Mistress), Ghostwheel (Nine Princes in Amber), and Wintermute (Neuromancer), plus Patrick’s ideas for Tesla app syncing. We’re keeping our conversations as vibrant as a supernova!
 
